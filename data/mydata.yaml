@@ -1,0 +1,5 @@
+train: /home/nyarava/WAID-main/yolov7/WAID/images/train
+val: /home/nyarava/WAID-main/yolov7/WAID/images/valid
+test: /home/nyarava/WAID-main/yolov7/WAID/images/test
+nc: 6  # number of classes
+names: ['sheep', 'cattle', 'seal', 'camelus', 'kiang', 'zebra']

@@ -1,0 +1,5 @@
+train: C:/Users/yniti/Downloads/WAID-main/yolov7/sample/images/train
+val: C:/Users/yniti/Downloads/WAID-main/yolov7/sample/images/valid
+test: C:/Users/yniti/Downloads/WAID-main/yolov7/sample/images/test
+nc: 6  # number of classes
+names: ['sheep', 'cattle', 'seal', 'camelus', 'kiang', 'zebra']
