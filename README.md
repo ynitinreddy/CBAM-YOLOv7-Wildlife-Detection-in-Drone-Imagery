@@ -67,8 +67,8 @@ While **CBAM-YOLO** demonstrated competitive performance, **SE-YOLO remains the 
 ## Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/CBAM-YOLO.git
-   cd CBAM-YOLO
+   git clone https://github.com/ynitinreddy/CBAM-YOLOv7-Wildlife-Detection-in-Drone-Imagery.git
+   cd CBAM-YOLOv7-Wildlife-Detection-in-Drone-Imagery
    ```
 2. Install dependencies:
    ```bash
