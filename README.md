@@ -69,3 +69,20 @@ While **CBAM-YOLO** demonstrated competitive performance, **SE-YOLO remains the 
    ```bash
    git clone https://github.com/your-repo/CBAM-YOLO.git
    cd CBAM-YOLO
+   ```
+
+2.Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. Train the model:
+   ```bash
+   python train.py --data waid.yaml --cfg yolov7-cbam.yaml --weights yolov7.pt
+   ```
+
+4. Evaluate:
+   ```bash
+   python test.py --weights best.pt --data waid.yaml
+   ```
+   
